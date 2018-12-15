@@ -1,0 +1,22 @@
+{
+  "name": "my-wechaty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedou/my-wechaty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedou/my-wechaty/issues"
+  },
+  "homepage": "https://github.com/onedou/my-wechaty#readme",
+  "dependencies": {
+    "wechaty": "^0.22.6"
+  }
+}
